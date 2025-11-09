@@ -17,9 +17,9 @@ Hi there! I'm **justvixen7** — a Java-loving backend developer passionate abou
 
 | Project        | Description                                 | Link       |
 |----------------|---------------------------------------------|------------|
-| `qara-todolist` | Task manager with Spring Boot & JWT auth   | [View](https://github.com/justvixen7/qara-todolist) |
-| `vixenpay`      | Simple payment system backend               | [View](https://github.com/justvixen7/vixenpay) |
-| `javavibe`      | Music-themed Java API for fun and practice | [View](https://github.com/justvixen7/javavibe) |
+| `qara-todolist` | Task manager with Spring Boot & JWT auth   | [View](https://github.com//qara-todolist) |
+visolanax      | Simple payment system backend               | [View](https://github.com//vixenpay) |
+| `javavibe`      | Music-themed Java API for fun and practice | [View](https://github.com//javavibe) |
 
 ## 🌸 A bit about me
 
@@ -33,7 +33,7 @@ Hi there! I'm **justvixen7** — a Java-loving backend developer passionate abou
 Feel free to reach out:
 
 
-- Email: `justvixen7@gmail.com`
+- Email: ``
 
 ---
 
@@ -43,7 +43,7 @@ Feel free to reach out:
 
 
 <!--
-**justvixen7/justvixen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

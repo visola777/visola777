@@ -2,7 +2,7 @@
 
 > "I build the logic behind the scenes so everything just works." 🔧🖤
 
-Hi there! I'm **justvixen7** — a Java-loving backend developer passionate about building clean APIs, secure systems, and scalable services.
+Hi there! I'm **** — a Java-loving backend developer passionate about building clean APIs, secure systems, and scalable services.
 
 ## 🚀 Tech Stack
 

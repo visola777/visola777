@@ -1,4 +1,4 @@
-sdasde# 👩‍💻 Visola - Backend Developer
+# 👩‍💻 Visola - Backend Developer
 
 > "I build the logic behind the scenes so everything just works." 🔧🖤
 
